@@ -31,7 +31,7 @@ divd.insertAdjacentHTML("beforeend",`
         
     </div>
     <div class="actionBtn">
-        <button>Follow</button>
+        <button formaction="https://www.freecodecamp.org/">Follow</button>
         <button>Message</button>
     </div>
 
