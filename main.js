@@ -31,8 +31,11 @@ divd.insertAdjacentHTML("beforeend",`
         
     </div>
     <div class="actionBtn">
-        <button formaction="https://www.freecodecamp.org/">Follow</button>
-        <button>Message</button>
+        <form action="https://www.instagram.com/jhormanfuentes/"target="_blank">
+            <button>Follows</button>
+            <button>Message</button>
+        </form>
+       
     </div>
 
 `);
