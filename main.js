@@ -23,11 +23,11 @@ divd.setAttribute("class","details")
 divc.appendChild(divd);
 
 divd.insertAdjacentHTML("beforeend",`
-    <h2>Jhorman Felipe <br><span>Senior UX/UI Designerk</span></h2>
+    <h2>Jhorman Felipe <br><span>Desarrollador Back-End Senior</span></h2>
     <div class="data">
-        <h3>433<br><span>Post</span></h3>
-        <h3>643<br><span>Followers</span></h3>
-        <h3>233<br><span>Following</span></h3>
+        <h3>433k<br><span>Post</span></h3>
+        <h3>64M<br><span>Followers</span></h3>
+        <h3>233k<br><span>Following</span></h3>
         
     </div>
     <div class="actionBtn">
